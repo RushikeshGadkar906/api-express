@@ -15,7 +15,7 @@ mongoose.connect('mongodb://localhost:27017/apidev-demo')
 
     })
 
-// Schecma
+// Schecma add here
 
 const productsSchemas = mongoose.Schema({
     name: {
